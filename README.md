@@ -6,3 +6,4 @@ Supports only one endpoint which accepts a GET request
 GET /patients
 
 
+Authored by https://github.com/janyousssef
